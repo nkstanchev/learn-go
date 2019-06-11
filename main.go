@@ -24,7 +24,7 @@ func main() {
 	fmt.Println(numbers2)
 	// slices23
 	fmt.Println(numbersD)
-
+	ShowcaseChannels()
 	// fmt.Println(slices23())
 	// structures
 	// v := Vertex{1, 2}

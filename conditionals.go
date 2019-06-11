@@ -16,7 +16,7 @@ func ShowcaseConditionals() {
 	case y%2 == 0:
 		fmt.Println("even")
 		fallthrough
-	case y > 10, y > 10:
+	case y > 10, y > 15:
 		fmt.Println("greater than 10")
 		fallthrough
 	case y > 20:
